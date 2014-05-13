@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
         AntHalService \
         libantradio \
         ANTRadioService \
+        ANTPlusPlugins \
         antradio_app \
 
 PRODUCT_COPY_FILES += \
